@@ -2,7 +2,7 @@ title: Tarannom Haque # your name (or website title) here
 logo: "/images/IMG_1277 Small.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst
-  I love Data  <br><br>
+ <br><br>
   <a href="https://www.linkedin.com/in/tarannom-haque/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
