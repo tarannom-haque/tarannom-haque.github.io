@@ -6,7 +6,6 @@
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/18131.jpg?raw=true"/>
-Tolulope is the best
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
