@@ -32,6 +32,7 @@ Utilized Tableau for this project focused on the Massachusetts education system,
 - [Education Analysis](https://www.linkedin.com/pulse/education-project-analyzing-massachusetts-school-data-tarannom-haque/)
 
 ### My other project
+
 - [Local Law 159 of 2019|R:](https://rpubs.com/Tarannom/1013086)
 - [LinkedIn Analysis](https://www.linkedin.com/pulse/linkedin-analysis-tarannom-haque/)
 
