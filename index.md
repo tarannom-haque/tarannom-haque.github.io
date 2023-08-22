@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/[bank](https://www.linkedin.com/in/tarannom-haque/))
-<img src="images/Blue Illustrated Technology General LinkedIn Banner-4.png?raw=true"/>
+[<img src="images/Blue Illustrated Technology General LinkedIn Banner-4.png?raw=true"/>](https://www.linkedin.com/in/tarannom-haque/)
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
