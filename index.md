@@ -8,7 +8,7 @@
 
 ---
 #### [Doordash with Excel](https://www.linkedin.com/pulse/data-driven-case-study-doordashs-operations-tarannom-haque/)
-<img src="images/5739256.jpg?raw=true"/>
+[<img src="images/5739256.jpg?raw=true"/>](https://www.linkedin.com/pulse/data-driven-case-study-doordashs-operations-tarannom-haque/)
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
