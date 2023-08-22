@@ -1,10 +1,10 @@
 # Welcome to My Portfolio
 
+[<img src="images/Blue Illustrated Technology General LinkedIn Banner-4.png?raw=true"/>](https://www.linkedin.com/in/tarannom-haque/)
+
 ---
 
 ### Learn About My Projects
-
-[<img src="images/Blue Illustrated Technology General LinkedIn Banner-4.png?raw=true"/>](https://www.linkedin.com/in/tarannom-haque/)
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
