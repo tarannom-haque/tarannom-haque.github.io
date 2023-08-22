@@ -7,7 +7,7 @@
 ### Learn About My Projects
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Doordash with Excel](/files/Day 12 - 21 days to data.pdf)
 <img src="images/5739256.jpg?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
