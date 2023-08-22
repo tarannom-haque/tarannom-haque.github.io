@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/bank)
-<img src="images/18131.jpg?raw=true"/>
+<img src="images/Tarannom Haque.png?raw=true"/>
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
