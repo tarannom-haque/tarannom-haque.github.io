@@ -7,19 +7,19 @@
 ### Learn About My Projects
 
 ---
-#### [Doordash with Excel](https://www.linkedin.com/pulse/data-driven-case-study-doordashs-operations-tarannom-haque/)
+#### [Doordash Analysis|Excel:](https://www.linkedin.com/pulse/data-driven-case-study-doordashs-operations-tarannom-haque/)
 [<img src="images/5739256.jpg?raw=true"/>](https://www.linkedin.com/pulse/data-driven-case-study-doordashs-operations-tarannom-haque/)
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/Tarannom Haque.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [World Bank Analysis|SQL:](https://www.linkedin.com/pulse/sql-project-real-world-data-from-bank-tarannom-haque/)
+[<img src="images/Tarannom Haque.png?raw=true"/>](https://www.linkedin.com/pulse/sql-project-real-world-data-from-bank-tarannom-haque/)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/Subscribe.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Education Analysis|Tableau:](https://www.linkedin.com/pulse/education-project-analyzing-massachusetts-school-data-tarannom-haque/)
+[<img src="images/Subscribe.png?raw=true"/>](https://www.linkedin.com/pulse/education-project-analyzing-massachusetts-school-data-tarannom-haque/)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
