@@ -1,6 +1,8 @@
 title: Tarannom Haque # your name (or website title) here
 logo: "/images/IMG_7369 Small.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+
+
   
   Data Analyst<br>
    Passionate and driven data analyst with a background in sociology, data analytics, 
@@ -8,7 +10,11 @@ description: > # your text below (remove <br> elements if you don't need line br
    to extracting actionable insights from intricate datasets to empower data-driven decisions. 
    Eager to apply my versatile skills in a dynamic environment, contributing to transformative outcomes.<br><br>
 
+   
+
   <a href="https://www.linkedin.com/in/tarannom-haque/">View My LinkedIn Profile</a> 
+
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
