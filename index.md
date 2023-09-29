@@ -34,6 +34,7 @@ I dived into a comprehensive analysis of clinical data spanning a decade across 
 - [Doordash Analysis](https://www.linkedin.com/pulse/data-driven-case-study-doordashs-operations-tarannom-haque/)
 - [WorldBank Analysis](https://www.linkedin.com/pulse/sql-project-real-world-data-from-bank-tarannom-haque/)
 - [Education Analysis](https://www.linkedin.com/pulse/education-project-analyzing-massachusetts-school-data-tarannom-haque/)
+- [Healthcare Analysis](https://www.linkedin.com/pulse/optimizing-healthcare-insights-from-data-analysis-tarannom-haque/)
 
 ### My other project
 
