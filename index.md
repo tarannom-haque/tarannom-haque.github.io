@@ -25,7 +25,11 @@ Utilized Tableau for this project focused on the Massachusetts education system,
 
 ---
 
-### My Projects
+### [Healthcare Analysis|SQL:](https://www.linkedin.com/pulse/optimizing-healthcare-insights-from-data-analysis-tarannom-haque/)
+[<img src="images/19742.jpg?raq=true"/>](https://www.linkedin.com/pulse/optimizing-healthcare-insights-from-data-analysis-tarannom-haque/)
+I dived into a comprehensive analysis of clinical data spanning a decade across 130 US hospitals and integrated delivery networks. I explored patient demographics, medical specialties, treatment correlations, and potential disparities in care, all while leveraging SQL's robust capabilities. The project unveiled insights into patient hospital stays, resource allocation, racial equity, and the correlation between lab procedures and patient care pathways. Through efficient data manipulation and visualization techniques, I uncovered trends and success stories, providing a holistic view of healthcare operations and decision-making. This project demonstrates the power of SQL in transforming complex datasets into actionable insights for optimizing patient care and healthcare management.
+
+### My Project Links
 
 - [Doordash Analysis](https://www.linkedin.com/pulse/data-driven-case-study-doordashs-operations-tarannom-haque/)
 - [WorldBank Analysis](https://www.linkedin.com/pulse/sql-project-real-world-data-from-bank-tarannom-haque/)
